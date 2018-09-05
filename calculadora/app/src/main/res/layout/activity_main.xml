@@ -27,6 +27,7 @@
         android:inputType="numberDecimal"
         android:lines="2"
         android:maxLines="2"
+        android:text="0"
         android:textSize="40sp" />
 
     <LinearLayout
